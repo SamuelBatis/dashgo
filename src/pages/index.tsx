@@ -24,7 +24,7 @@ export default function SingIn() {
       
    </Stack>
       
-      <Button type="submit" mt="6" colorScheme="pink">Entrar</Button>
+      <Button type="submit" mt="6" colorScheme="pink" borderStyle="none">Entrar</Button>
       </Flex>
     </Flex>
   )
